@@ -1,1 +1,21 @@
+Tutorial rapido
+https://learnxinyminutes.com/docs/standard-ml/
+
+Sintaxe da Linguagem
+http://rigaux.org/language-study/syntax-across-languages-per-language/SML.html
+
+Exemplos básicos
+http://cs.fit.edu/~ryan/sml/intro.html
+
+Resumo das funções
+http://cse.csusb.edu/dick/samples/ml.functions.html
+
+
+Leitura de arquivo
 https://stackoverflow.com/questions/2168029/open-file-in-mlsmlnj
+
+Concatenar Strings
+https://stackoverflow.com/a/3920672
+
+String para lista
+https://stackoverflow.com/a/22155992
